@@ -6,13 +6,13 @@
 
 ## 🚀 Features
 
-- 🎯 **Accurate Checking Results** — Reliable and precise validation  
-- ⚡ **Fast Performance** — Quickly process large email lists  
-- 🧵 **Multiprocessing Support** — Enhanced speed using parallel processing  
-- 🌐 **HTTP Proxy Support** — Flexible proxy integration  
-- 🌍 **Supports Any Domain** — Works across multiple email providers  
-- 📊 **Handles Large Lists** — Efficient with bulk data  
-- ♾️ **Unlimited Checking** — No limits or restrictions  
+- 🎯 **Accurate Checking Results** — Reliable and precise validation.
+- ⚡ **Fast Performance** — Quickly process large email lists.
+- 🧵 **Multiprocessing Support** — Enhanced speed using parallel processing.
+- 🌐 **HTTP Proxy Support** — Flexible proxy integration.
+- 🌍 **Supports Any Domain** — Works across multiple email providers.
+- 📊 **Handles Large Lists** — Efficient with bulk data.
+- ♾️ **Unlimited Checking** — No limits or restrictions.
 
 ---
 
