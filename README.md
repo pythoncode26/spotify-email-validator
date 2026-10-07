@@ -1,18 +1,18 @@
 # 🎧 Spotify Valid Email Checker
 
-![Spotify Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Spotify-Valid-Email-Checker/refs/heads/main/spotify-valid-email-checker.png)
+![Spotify Valid Email Checker](https://raw.githubusercontent.com/alexrony21/spotify-valid-email-checker-github/refs/heads/main/spotify-valid-email-checker-github.png)
 
 ---
 
 ## 🚀 Features
 
-- 🎯 **Accurate Checking Results** — Reliable and precise validation.
-- ⚡ **Fast Performance** — Quickly process large email lists.
-- 🧵 **Multiprocessing Support** — Enhanced speed using parallel processing.
-- 🌐 **HTTP Proxy Support** — Flexible proxy integration.
-- 🌍 **Supports Any Domain** — Works across multiple email providers.
-- 📊 **Handles Large Lists** — Efficient with bulk data.
-- ♾️ **Unlimited Checking** — No limits or restrictions.
+- 🎯 **Accurate Checking Results** — Reliable and precise validation  
+- ⚡ **Fast Performance** — Quickly process large email lists  
+- 🧵 **Multiprocessing Support** — Enhanced speed using parallel processing  
+- 🌐 **HTTP Proxy Support** — Flexible proxy integration  
+- 🌍 **Supports Any Domain** — Works across multiple email providers  
+- 📊 **Handles Large Lists** — Efficient with bulk data  
+- ♾️ **Unlimited Checking** — No limits or restrictions  
 
 ---
 
